@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## 📱 App Preview
+
+Berikut hasil tampilan aplikasi FinanceApp:
+
+![Tampilan 1](assets/screenshots/Finnance_1.JPG)
+![Tampilan 2](assets/screenshots/Finnance_2.JPG)
+![Tampilan 3](assets/screenshots/Finnance_3.JPG)
